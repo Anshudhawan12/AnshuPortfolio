@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <br />
     <a href="https://youtu.be/0fYi8SGA20k?feature=shared" target="_blank">
@@ -774,3 +775,6 @@ Enjoyed creating this project? Dive deeper into our PRO courses for a richer lea
 <a href="https://www.jsmastery.pro/ultimate-next-course" target="_blank">
 <img src="https://i.ibb.co/804sPK6/Image-720.png" alt="Project Banner">
 </a>
+=======
+# Anshu
+>>>>>>> b17ba54d7c1d7dda86df1e82878e8b6e1d9ac3da
