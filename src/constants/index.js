@@ -55,7 +55,7 @@ const services = [
   {
     title: "Check Resume",
     icon: web,
-    link:"/Anshu_Dhawan_Resume.pdf"
+ link: "/AnshuPortfolio/Anshu_Dhawan_Resume.pdf"
   },
   {
     title: "Github",
