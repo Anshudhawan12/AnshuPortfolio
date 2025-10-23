@@ -16,7 +16,7 @@ const education = [
   {
     title: "Bachelor of Engineering in Computer Science",
     company_name: "Chitkara University Institute of Engineering & Technology, Punjab",
-    icon: "/images/Chitkara-University-Logo.jpg", // ✅ Chitkara University logo
+        icon: "/AnshuPortfolio/images/Chitkara-University-Logo.jpg", 
     iconBg: "#383E56",
     date: "2023 – 2027",
     points: [
@@ -28,7 +28,7 @@ const education = [
   {
     title: "12th Grade – Non-Medical",
     company_name: "Gobindgarh Public School, Mandi Gobindgarh",
-    icon: "/images/gobindgarh.jpg", // ✅ Generic school logo (since GPS doesn’t have public logo online)
+   icon: "/AnshuPortfolio/images/gobindgarh.jpg",
     iconBg: "#E6DEDD",
     date: "2021 – 2022",
     points: [
@@ -41,7 +41,7 @@ const education = [
   {
     title: "10th Grade",
     company_name: "Gobindgarh Public School, Mandi Gobindgarh",
-    icon: "/images/gobindgarh.jpg", // ✅ Same school logo
+       icon: "/AnshuPortfolio/images/gobindgarh.jpg", // ✅ fixed path
     iconBg: "#E6DEDD",
     date: "2019 – 2020",
     points: [
